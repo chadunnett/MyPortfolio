@@ -98,6 +98,11 @@ div {
   border: 1px solid black;
   border-radius: 10px;
 }
+.my-img {
+border-radius: 30px;
+height:150px;
+align-items: center;
+}
 .sample-img {
   background-color: #fff;
   height: 200px;
